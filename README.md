@@ -69,7 +69,11 @@ JINMOVIE\_VS는 The Movie Database (TMDB) API를 활용하여 현재 상영 중�
 
 ### 📚 demo
 
-
-![jinMovieSearch](https://github.com/user-attachments/assets/69dc7fc1-dd5d-40a9-8338-a123cf1a0ff1)
+#### Main
 ![jinMovie](https://github.com/user-attachments/assets/214a94d5-720a-4a4a-94e7-ec971f3a235b)
+
+#### Search
+![jinMovieSearch](https://github.com/user-attachments/assets/69dc7fc1-dd5d-40a9-8338-a123cf1a0ff1)
+
+#### Detail
 ![jinMovieDetail](https://github.com/user-attachments/assets/7fea77a7-c713-421c-9069-3a84224daace)
